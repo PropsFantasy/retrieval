@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "declaration": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "newLine": "LF",
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["es5"],
+    "outDir": "dist"
+  }
+}
