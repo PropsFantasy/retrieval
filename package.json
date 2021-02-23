@@ -1,5 +1,5 @@
 {
-  "name": "retrieval",
+  "name": "@propsfantasy/retrieval",
   "version": "1.0.0",
   "description": "Utility types for representing asynchronous state retrieval",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:AechDub/retrieval.git"
+    "url": "git+ssh://git@github.com:PropsFantasy/retrieval.git"
   },
   "keywords": [
     "retrieval",
@@ -23,9 +23,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AechDub/retrieval/issues"
+    "url": "https://github.com/PropsFantasy/retrieval/issues"
   },
-  "homepage": "https://github.com/AechDub/retrieval#readme",
+  "homepage": "https://github.com/PropsFantasy/retrieval#readme",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "chai": "^4.2.0",
